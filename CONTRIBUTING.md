@@ -4,4 +4,6 @@
 
 ## Reporting an issue
 
-## Contributing a feature
+## Contributing a new feature
+
+
